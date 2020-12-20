@@ -41,7 +41,7 @@
 </p>
 
 
-<p align="center"> **LANGUAGES AND TOOLS:** </p>
+<p align="center"> <b>LANGUAGES AND TOOLS:</b></p>
 <p align="center"> 
 
   <a href="https://developer.android.com" target="_blank"> 
