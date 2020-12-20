@@ -34,9 +34,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafid24&label=Profile%20views&color=f48201&style=plastic" alt="rafid24" />•  
+  <img src="https://komarev.com/ghpvc/?username=rafid24&label=Profile%20views&color=f48201&style=plastic" alt="rafid24" />
 </p>
-
 <p align="center"> 
   <a href="https://twitter.com/rafid1996" target="blank"><img src="https://img.shields.io/twitter/follow/rafid1996?logo=twitter&style=for-the-badge" alt="rafid1996" /></a> 
 </p>
