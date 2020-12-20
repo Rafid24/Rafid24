@@ -106,7 +106,7 @@
     <code><img height="60" width="60" src="https://github.com/Rafid24/Rafid24/blob/main/instagram.jpg"/></code>
   </a>
   <a href="https://twitter.com/JayantGoel6" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Rafid24/Rafid24/blob/main/twitter.jpg"/></code>
+    <code><img height="60" width="60" src="https://github.com/Rafid24/Rafid24/blob/main/twitter.png"/></code>
   </a>    
 </p>
 <br/>
