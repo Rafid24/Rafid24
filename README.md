@@ -39,7 +39,9 @@
   <img src="https://img.shields.io/github/stars/JayantGoel001?label=Stars" alt="Total Stars">
 </p>
 
-<p align="left"> <a href="https://twitter.com/rafid1996" target="blank"><img src="https://img.shields.io/twitter/follow/rafid1996?logo=twitter&style=for-the-badge" alt="rafid1996" /></a> </p>
+<p align="center"> 
+  <a href="https://twitter.com/rafid1996" target="blank"><img src="https://img.shields.io/twitter/follow/rafid1996?logo=twitter&style=for-the-badge" alt="rafid1996" /></a> 
+</p>
 
 
 
