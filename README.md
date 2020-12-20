@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rafid24](https://github.com/Rafid24)
+- 👨‍💻 All of my projects are available at **[GitHub]**(https://github.com/Rafid24)
 
 - 💬 Ask me about **Anything**
 
