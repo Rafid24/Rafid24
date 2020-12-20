@@ -97,39 +97,19 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/jayant-goel-a136861b9/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/linkedin.svg"/></code>
+    <code><img height="60" width="60" src="https://github.com/Rafid24/Rafid24/blob/main/linkedin.png"/></code>
   </a>
   <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/facebook.svg"/></code>
+    <code><img  height="60" width="60" src="https://github.com/Rafid24/Rafid24/blob/main/facebook.png"/></code>
   </a>
   <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/instagram.svg"/></code>
+    <code><img height="60" width="60" src="https://github.com/Rafid24/Rafid24/blob/main/instagram.jpg"/></code>
   </a>
   <a href="https://twitter.com/JayantGoel6" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/twitter.svg"/></code>
-  </a>
-  <a href="https://dev.to/jayantgoel001">
-    <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
-  </a>     
+    <code><img height="60" width="60" src="https://github.com/Rafid24/Rafid24/blob/main/twitter.png"/></code>
+  </a>    
 </p>
 <br/>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/hr.png"/></code>
-  </a>
-  
-  <a href="http://www.codeforces.com/profile/cormackrum" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/cf.png"/></code>
-  </a>
-  
-  <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/he.svg"/></code>
-  </a>
-  
-  <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/cc.svg"/></code>
-  </a>
 </p>
 
 #
