@@ -34,9 +34,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/JayantGoel001" alt="profile views"> •  
+  <img src="https://komarev.com/ghpvc/?username=rafid24&label=Profile%20views&color=f48201&style=plastic" alt="rafid24" />•  
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/JayantGoel001?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/JayantGoel001?label=Stars" alt="Total Stars">
 </p>
 
 <p align="center"> 
