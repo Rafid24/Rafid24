@@ -41,10 +41,9 @@
 </p>
 
 
-
-**LANGUAGES AND TOOLS:**  
+<p align="center"> **LANGUAGES AND TOOLS:** </p>
 <p align="center"> 
-**LANGUAGES AND TOOLS:**
+
   <a href="https://developer.android.com" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank"> 
