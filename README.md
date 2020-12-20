@@ -70,11 +70,18 @@
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
   <strong>Github Stats</strong>:
 </summary>
+  
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafid24&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rafid24" /></p>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=rafid24&show_icons=true&theme=gruvbox&locale=en" alt="rafid24" /></p>
+<p align="center">
+<a href="https://github.com/JayantGoel001">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayantGoel001&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+</a>
+<a href="https://github.com/JayantGoel001">
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantGoel001&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</a>
+</p>
 </details>
+
 <br>
 <h1>
   <a id="user-content-connect-with-me-" class="anchor" aria-hidden="true" href="#connect-with-me-">
