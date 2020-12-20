@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **rafidmahboob@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fTgZ5ToiVqLaWEcoA0uJeETBHhwbVuGu/view?usp=sharing](https://drive.google.com/file/d/1fTgZ5ToiVqLaWEcoA0uJeETBHhwbVuGu/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fTgZ5ToiVqLaWEcoA0uJeETBHhwbVuGu/view?usp=sharing)
 
 - ⚡ Fun fact **I say the word Meme as Mem, not as Meem**
 
