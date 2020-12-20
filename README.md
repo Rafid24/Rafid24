@@ -41,7 +41,7 @@
 </p>
 
 
-<p align="center" style="font-size:30px"><b>LANGUAGES AND TOOLS:</b></p>
+<p align="center" style="font-size:60px"><b>LANGUAGES AND TOOLS:</b></p>
 
 
 <p align="center"> 
