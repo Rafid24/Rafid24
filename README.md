@@ -35,7 +35,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rafid24&label=Profile%20views&color=f48201&style=plastic" alt="rafid24" />•  
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/JayantGoel001?label=Followers&style=social"> •   
 </p>
 
 <p align="center"> 
