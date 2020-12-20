@@ -71,14 +71,9 @@
   <strong>Github Stats</strong>:
 </summary>
 <br>
-<p align="center">
-<a href="https://github.com/JayantGoel001">
-  <img align="center" src="https://github-readme-stats.vercel.app/apiusername=JayantGoel001&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-</a>
-<a href="https://github.com/JayantGoel001">
-  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantGoel001&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-</a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafid24&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rafid24" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafid24&show_icons=true&theme=gruvbox&locale=en" alt="rafid24" /></p>
 </details>
 <br>
 <h1>
