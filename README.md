@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rafdi Mahboob</h1>
+<h1 align="center">Hi 👋, I'm Rafid Mahboob</h1>
 <h3 align="center">Web Developer | Django | Python | Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafid24&label=Profile%20views&color=f48201&style=plastic" alt="rafid24" /> </p>
