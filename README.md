@@ -9,17 +9,17 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning **Django**
+- 📚 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Rafid24)
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **rafidmahboob@gmail.com**
+- ✉️ How to reach me **rafidmahboob@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fTgZ5ToiVqLaWEcoA0uJeETBHhwbVuGu/view?usp=sharing)
+- 📃 Know about my experiences [Resume](https://drive.google.com/file/d/1fTgZ5ToiVqLaWEcoA0uJeETBHhwbVuGu/view?usp=sharing)
 
-- ⚡ Fun fact **I say the word Meme as Mem, not as Meem**
+- ❗ Fun fact **I say the word Meme as Mem, not as Meem**
 
 <br/>
 <br/>
