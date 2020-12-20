@@ -71,9 +71,9 @@
   <strong>Github Stats</strong>:
 </summary>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafid24&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rafid24" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafid24&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rafid24" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rafid24&show_icons=true&theme=gruvbox&locale=en" alt="rafid24" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=rafid24&show_icons=true&theme=gruvbox&locale=en" alt="rafid24" /></p>
 </details>
 <br>
 <h1>
