@@ -18,14 +18,17 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on **Android and Data Science**
-- 🌱 I’m currently learning **Flutter and Web Development**
-- 👯 I’m looking to collaborate on **Android or Data Science**
-- 🤔 I’m looking for help with **Internships**
-- 💬 Ask me about Anything [here](https://github.com/JayantGoel001/JayantGoel001/issues/1)! I am happy to help.
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **Best Part Of The Journey Is : It Ends**
-- <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/house.png" width="20px" height="20px"/>  Hogwarts House: **Slytherin** <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Slytherin_ClearBG.png">
+- 🌱 I’m currently learning **Django**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Rafid24](https://github.com/Rafid24)
+
+- 💬 Ask me about **Anything**
+
+- 📫 How to reach me **rafidmahboob@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fTgZ5ToiVqLaWEcoA0uJeETBHhwbVuGu/view?usp=sharing](https://drive.google.com/file/d/1fTgZ5ToiVqLaWEcoA0uJeETBHhwbVuGu/view?usp=sharing)
+
+- ⚡ Fun fact **I say the word Meme as Mem, not as Meem**
 
 <br/>
 <br/>
