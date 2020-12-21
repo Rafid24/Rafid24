@@ -8,7 +8,7 @@
 
 - 📚 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Rafid24)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Rafid24?tab=repositories)
 
 - 💬 Ask me about **Anything**
 
