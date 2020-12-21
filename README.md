@@ -22,7 +22,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://rafid24.github.io/portfolio_rafid/" target="blank"><img src="https://img.shields.io/endpoint?url=<URL>&style<STYLE>" /></a>
+  <a href="https://rafid24.github.io/portfolio_rafid/" target="blank"><img src="https://img.shields.io/endpoint?style=social" /></a>
 </p>
 <p align="center"> 
   <a href="https://twitter.com/rafid1996" target="blank"><img src="https://img.shields.io/twitter/follow/rafid1996?logo=twitter&style=for-the-badge" alt="rafid1996" /></a> 
