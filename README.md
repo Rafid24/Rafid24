@@ -118,5 +118,5 @@
 
 #
 
-![](https://github.com/Rafid24/Rafid24/blob/main/pos4.png)
+![](https://github.com/Rafid24/Rafid24/blob/main/How-to-become-a-front-end-developer-in-2020.png)
 
