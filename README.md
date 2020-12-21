@@ -22,7 +22,7 @@
 <br/>
 
 <p align="center">
-  [[Website](https://img.shields.io/badge/Portofiio-UP-blue)](https://rafid24.github.io/portfolio_rafid/)
+  [GitHub](https://rafid24.github.io/portfolio_rafid/)
 </p>
 <p align="center"> 
   <a href="https://twitter.com/rafid1996" target="blank"><img src="https://img.shields.io/twitter/follow/rafid1996?logo=twitter&style=for-the-badge" alt="rafid1996" /></a> 
