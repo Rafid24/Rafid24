@@ -22,8 +22,7 @@
 <br/>
 
 <p align="center">
- <a href="https://rafid24.github.io/portfolio_rafid/" target="blank"><img src="https://img.shields.io/badge/-Portfolio-red" /></a> 
-  ![Custom badge](https://img.shields.io/endpoint?label=Portfolio&logoColor=Red&style=for-the-badge&url=https%3A%2F%2Frafid24.github.io%2Fportfolio_rafid%2F)
+ <a href="https://rafid24.github.io/portfolio_rafid/" target="blank"><img src="https://img.shields.io/badge/Portfolio-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a> 
 </p>
 <p align="center"> 
   <a href="https://twitter.com/rafid1996" target="blank"><img src="https://img.shields.io/twitter/follow/rafid1996?logo=twitter&style=for-the-badge" alt="rafid1996" /></a> 
