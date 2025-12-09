@@ -1,7 +1,6 @@
 <h1 align="center">
   ▌│█║▌║▌║ RAFID MAHBOOB ║▌║▌║█│▌
 </h1>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"><img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" data-canonical-src="https://github.com/JayantGoel001/JayantGoel001/blob/master/image.gif" style="max-width:100%; "></a>
 
 <br/>
 <br/>
@@ -30,12 +29,6 @@
 
 
 #
-
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
-  <strong>Github Stats</strong>:
-</summary>
   
 <br>
 <p align="center">
