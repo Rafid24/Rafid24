@@ -40,7 +40,7 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/rafidmahboob1996/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Rafid24/Rafid24/blob/main/linkedin.png"/></code>
+    <code><img height="40" width="40" src="https://github.com/Rafid24/Rafid24/blob/main/linkedin.png"/></code>
   </a>
   <a href="https://www.facebook.com/rafid96" target="_blank">
     <code><img  height="60" width="60" src="https://github.com/Rafid24/Rafid24/blob/main/facebook.png"/></code>
